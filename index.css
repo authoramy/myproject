@@ -3,6 +3,9 @@ body{
     font-size: xx-large;
 }
 
+.main {
+    color: red;
+}
 .new {
     color: green;
 }
